@@ -50,7 +50,7 @@
 
 📫 **Let's Connect!**
 
-[Email](mailto:amin.esmaeelzadeh1385@gmail.com) • [LinkedIn](www.linkedin.com/in/amin-esmaeelzadeh
+[Email](amin.esmaeelzadeh1385@gmail.com) • [LinkedIn](www.linkedin.com/in/amin-esmaeelzadeh
 
 )
 
