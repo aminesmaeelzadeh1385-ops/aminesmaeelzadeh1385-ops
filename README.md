@@ -40,18 +40,9 @@
 
 <div align="center">
 
-![Amin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aminesmaeelzadeh1385-ops&show_icons=true&theme=radial&hide_border=true)
+![Amin's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=aminesmaeelzadeh1385-ops&show_icons=true&theme=radial&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aminesmaeelzadeh1385-ops&theme=radial&hide_border=true)
 
 </div>
 
----
-
-<div align="center">
-
-📫 **Let's Connect!**
-
-[Email](amin.esmaeelzadeh1385@gmail.com) • [LinkedIn](www.linkedin.com/in/amin-esmaeelzadeh
-
-)
-
-</div>
